@@ -1,0 +1,9 @@
+.vscode/
+.pio/
+.venv/
+__pycache__/
+bin/
+gen/
+*.elf
+*.hex
+.dnr
